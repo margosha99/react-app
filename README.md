@@ -29,5 +29,4 @@ redux-thunk
 redux-form
 ```
 # Demo
-
-
+https://margosha99.github.io/react-redux-app/
